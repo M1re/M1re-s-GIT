@@ -1,0 +1,7 @@
+C:\Users\MSI\source\repos\LAB_05\LAB_05\bin\Debug\LAB_05.exe.config
+C:\Users\MSI\source\repos\LAB_05\LAB_05\bin\Debug\LAB_05.exe
+C:\Users\MSI\source\repos\LAB_05\LAB_05\bin\Debug\LAB_05.pdb
+C:\Users\MSI\source\repos\LAB_05\LAB_05\obj\Debug\LAB_05.csprojAssemblyReference.cache
+C:\Users\MSI\source\repos\LAB_05\LAB_05\obj\Debug\LAB_05.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\LAB_05\LAB_05\obj\Debug\LAB_05.exe
+C:\Users\MSI\source\repos\LAB_05\LAB_05\obj\Debug\LAB_05.pdb
