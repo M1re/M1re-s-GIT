@@ -1,0 +1,7 @@
+C:\Users\MSI\source\repos\LAB_SPEC.WORK\LAB_SPEC.WORK\bin\Debug\LAB_SPEC.WORK.exe.config
+C:\Users\MSI\source\repos\LAB_SPEC.WORK\LAB_SPEC.WORK\bin\Debug\LAB_SPEC.WORK.exe
+C:\Users\MSI\source\repos\LAB_SPEC.WORK\LAB_SPEC.WORK\bin\Debug\LAB_SPEC.WORK.pdb
+C:\Users\MSI\source\repos\LAB_SPEC.WORK\LAB_SPEC.WORK\obj\Debug\LAB_SPEC.WORK.csprojAssemblyReference.cache
+C:\Users\MSI\source\repos\LAB_SPEC.WORK\LAB_SPEC.WORK\obj\Debug\LAB_SPEC.WORK.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\LAB_SPEC.WORK\LAB_SPEC.WORK\obj\Debug\LAB_SPEC.WORK.exe
+C:\Users\MSI\source\repos\LAB_SPEC.WORK\LAB_SPEC.WORK\obj\Debug\LAB_SPEC.WORK.pdb
