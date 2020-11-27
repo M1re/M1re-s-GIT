@@ -1,0 +1,13 @@
+C:\Users\MSI\source\repos\LAB_04\LAB_04\bin\Debug\netcoreapp3.1\LAB_04.exe
+C:\Users\MSI\source\repos\LAB_04\LAB_04\bin\Debug\netcoreapp3.1\LAB_04.deps.json
+C:\Users\MSI\source\repos\LAB_04\LAB_04\bin\Debug\netcoreapp3.1\LAB_04.runtimeconfig.json
+C:\Users\MSI\source\repos\LAB_04\LAB_04\bin\Debug\netcoreapp3.1\LAB_04.runtimeconfig.dev.json
+C:\Users\MSI\source\repos\LAB_04\LAB_04\bin\Debug\netcoreapp3.1\LAB_04.dll
+C:\Users\MSI\source\repos\LAB_04\LAB_04\bin\Debug\netcoreapp3.1\LAB_04.pdb
+C:\Users\MSI\source\repos\LAB_04\LAB_04\obj\Debug\netcoreapp3.1\LAB_04.csprojAssemblyReference.cache
+C:\Users\MSI\source\repos\LAB_04\LAB_04\obj\Debug\netcoreapp3.1\LAB_04.AssemblyInfoInputs.cache
+C:\Users\MSI\source\repos\LAB_04\LAB_04\obj\Debug\netcoreapp3.1\LAB_04.AssemblyInfo.cs
+C:\Users\MSI\source\repos\LAB_04\LAB_04\obj\Debug\netcoreapp3.1\LAB_04.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\LAB_04\LAB_04\obj\Debug\netcoreapp3.1\LAB_04.dll
+C:\Users\MSI\source\repos\LAB_04\LAB_04\obj\Debug\netcoreapp3.1\LAB_04.pdb
+C:\Users\MSI\source\repos\LAB_04\LAB_04\obj\Debug\netcoreapp3.1\LAB_04.genruntimeconfig.cache
