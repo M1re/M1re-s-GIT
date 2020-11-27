@@ -1,0 +1,7 @@
+C:\Users\MSI\source\repos\LAB_02\LAB_02\bin\Debug\LAB_02.exe.config
+C:\Users\MSI\source\repos\LAB_02\LAB_02\bin\Debug\LAB_02.exe
+C:\Users\MSI\source\repos\LAB_02\LAB_02\bin\Debug\LAB_02.pdb
+C:\Users\MSI\source\repos\LAB_02\LAB_02\obj\Debug\LAB_02.csprojAssemblyReference.cache
+C:\Users\MSI\source\repos\LAB_02\LAB_02\obj\Debug\LAB_02.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\LAB_02\LAB_02\obj\Debug\LAB_02.exe
+C:\Users\MSI\source\repos\LAB_02\LAB_02\obj\Debug\LAB_02.pdb
