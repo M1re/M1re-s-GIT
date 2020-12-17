@@ -1,0 +1,7 @@
+C:\Users\MSI\source\repos\LAB_10\LAB_10\bin\Debug\LAB_10.exe.config
+C:\Users\MSI\source\repos\LAB_10\LAB_10\bin\Debug\LAB_10.exe
+C:\Users\MSI\source\repos\LAB_10\LAB_10\bin\Debug\LAB_10.pdb
+C:\Users\MSI\source\repos\LAB_10\LAB_10\obj\Debug\LAB_10.csprojAssemblyReference.cache
+C:\Users\MSI\source\repos\LAB_10\LAB_10\obj\Debug\LAB_10.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\LAB_10\LAB_10\obj\Debug\LAB_10.exe
+C:\Users\MSI\source\repos\LAB_10\LAB_10\obj\Debug\LAB_10.pdb
