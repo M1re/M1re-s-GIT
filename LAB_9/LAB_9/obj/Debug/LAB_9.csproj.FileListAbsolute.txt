@@ -1,0 +1,14 @@
+C:\Users\MSI\source\repos\LAB_9\LAB_9\bin\Debug\LAB_9.exe.config
+C:\Users\MSI\source\repos\LAB_9\LAB_9\bin\Debug\LAB_9.exe
+C:\Users\MSI\source\repos\LAB_9\LAB_9\bin\Debug\LAB_9.pdb
+C:\Users\MSI\source\repos\LAB_9\LAB_9\obj\Debug\LAB_9.csprojAssemblyReference.cache
+C:\Users\MSI\source\repos\LAB_9\LAB_9\obj\Debug\LAB_9.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\LAB_9\LAB_9\obj\Debug\LAB_9.exe
+C:\Users\MSI\source\repos\LAB_9\LAB_9\obj\Debug\LAB_9.pdb
+C:\Users\MSI\source\Repository\LAB_9\LAB_9\bin\Debug\LAB_9.exe.config
+C:\Users\MSI\source\Repository\LAB_9\LAB_9\bin\Debug\LAB_9.exe
+C:\Users\MSI\source\Repository\LAB_9\LAB_9\bin\Debug\LAB_9.pdb
+C:\Users\MSI\source\Repository\LAB_9\LAB_9\obj\Debug\LAB_9.csprojAssemblyReference.cache
+C:\Users\MSI\source\Repository\LAB_9\LAB_9\obj\Debug\LAB_9.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\Repository\LAB_9\LAB_9\obj\Debug\LAB_9.exe
+C:\Users\MSI\source\Repository\LAB_9\LAB_9\obj\Debug\LAB_9.pdb
